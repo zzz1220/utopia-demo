@@ -52,6 +52,19 @@ export var storyboard = (
         >
           click it
           <br />
+          <video
+            style={{
+              width: '1371px',
+              height: '216px',
+              position: 'absolute',
+              left: 0,
+              top: -405,
+            }}
+            controls
+            autoPlay
+            loop
+            src='https://dl8.webmfiles.org/big-buck-bunny_trailer.webm'
+          />
         </span>
       </button>
     </Scene>
